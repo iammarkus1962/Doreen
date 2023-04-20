@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-image: url(https://github.com/iammarkus1962/Doreen/raw/main/Sky.jpg);
+  background-image: url('https://github.com/iammarkus1962/Doreen/raw/main/Sky.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
