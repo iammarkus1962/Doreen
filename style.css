@@ -1,7 +1,10 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #333;
+  background-image: url('sky.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .video-container {
